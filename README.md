@@ -127,15 +127,7 @@ const santosh: Developer = {
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=morasantosh2007-rgb&theme=radical&no-frame=true&no-bg=true&margin_w=10" alt="GitHub Trophies" />
-</div>
-
----
-
-### 📊 GitHub Analytics & Activity
+### 📊 GitHub Analytics
 
 <div align="center">
   <!-- Stats & Top Languages Cards -->
@@ -145,10 +137,6 @@ const santosh: Developer = {
 
   <!-- Streak Stats Card -->
   <img src="https://streak-stats.demolab.com?user=morasantosh2007-rgb&theme=tokyonight&border=00d2ff&ring=00d2ff&fire=00d2ff&currStreakLabel=00d2ff&background=0d1117" alt="Streak Stats" />
-  <br/><br/>
-
-  <!-- Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=morasantosh2007-rgb&bg_color=0d1117&color=00d2ff&line=00d2ff&point=ffffff&area=true&hide_border=false&border_color=00d2ff" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
