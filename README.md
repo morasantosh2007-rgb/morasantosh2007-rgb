@@ -4,7 +4,7 @@
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Engineer;Python+%26+Django+Specialist;Data+Structures+%26+Algorithms;Building+SeasonShip+%26+IndiaExplorer;Open+to+Opportunities+%26+Collaborations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Engineer;Python+%26+Django+Specialist;Data+Structures+%26+Algorithms;Building+SeasonShip+%26+India_Explorer;Open+to+Opportunities+%26+Collaborations" alt="Typing SVG" />
   </a>
   <br/>
 
@@ -28,15 +28,15 @@ const santosh: Developer = {
   title: "Web Developer & AI Engineer",
   status: "Computer Science Student & Lifelong Learner",
   stack: {
-    languages: ["Python", "JavaScript", "C", "C++", "Java"],
-    frontend: ["React", "HTML5", "CSS3"],
+    languages: ["Python", "JavaScript", "TypeScript", "C", "C++", "Java", "Dart"],
+    frontend: ["React", "HTML5", "CSS3", "Flutter"],
     backend: ["Django", "Node.js", "PostgreSQL", "MySQL"],
     cloudAndDevOps: ["Docker", "Git", "GitHub", "VS Code"],
-    domains: ["Artificial Intelligence", "Machine Learning", "Data Structures & Algorithms"]
+    domains: ["Artificial Intelligence", "Machine Learning", "NLP / NER", "Data Structures & Algorithms"]
   },
-  launchedProjects: [
+  featuredProjects: [
     "SeasonShip - Online Internship Portal",
-    "IndiaExplorer - Cultural & Travel Explorer App"
+    "India_Explorer - Cultural & Travel Explorer App"
   ],
   certifications: ["Data Structures & Algorithms", "Full Stack Development & AI"],
   openTo: ["Internships", "Junior Web/AI Roles", "Open Source Collaborations", "Hackathons"]
@@ -47,13 +47,20 @@ const santosh: Developer = {
 
 ### 🚀 Featured Projects
 
-#### 1. 🌐 [SeasonShip](https://github.com/morasantosh2007-rgb/SeasonShip) — *Online Internship Portal*
+#### 1. 🌐 [SeasonShip](https://github.com/morasantosh2007-rgb/seasonship) — *Online Internship Portal*
 
 <div align="center">
-  <a href="https://github.com/morasantosh2007-rgb/SeasonShip">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morasantosh2007-rgb&repo=SeasonShip&theme=tokyonight&border_color=00d2ff&title_color=00d2ff&icon_color=00d2ff&bg_color=0d1117" alt="SeasonShip Repo Card" />
+  <a href="https://github.com/morasantosh2007-rgb/seasonship" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=🌐%20SeasonShip&fontSize=26&fontColor=00d2ff&desc=Full%20Stack%20Online%20Internship%20Portal&descSize=14&descAlignY=66&descAlign=50&stroke=00d2ff&strokeWidth=2&height=100" width="100%" alt="SeasonShip" />
   </a>
+  <br/>
+  <a href="https://github.com/morasantosh2007-rgb/seasonship">
+    <img src="https://img.shields.io/badge/Repository-seasonship-00d2ff?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+  </a>
+  <img src="https://img.shields.io/github/repo-size/morasantosh2007-rgb/seasonship?style=for-the-badge&color=00d2ff" alt="Repo Size" />
+  <img src="https://img.shields.io/github/languages/top/morasantosh2007-rgb/seasonship?style=for-the-badge&color=00d2ff" alt="Top Language" />
 </div>
+<br/>
 
 | Layer | Technology |
 | :--- | :--- |
@@ -62,17 +69,24 @@ const santosh: Developer = {
 | **Database** | PostgreSQL / MySQL |
 | **Version Control & DevOps** | Git, GitHub, Docker |
 
-🔗 **Links:** [📁 Source Code](https://github.com/morasantosh2007-rgb/SeasonShip) • [🌐 Live Demo](https://github.com/morasantosh2007-rgb/SeasonShip)
+🔗 **Links:** [📁 Source Code](https://github.com/morasantosh2007-rgb/seasonship) • [🌐 Explore Repository](https://github.com/morasantosh2007-rgb/seasonship)
 
 ---
 
-#### 2. 📱 [IndiaExplorer](https://github.com/morasantosh2007-rgb/IndiaExplorer) — *Interactive Flutter App*
+#### 2. 📱 [India_Explorer](https://github.com/morasantosh2007-rgb/India_Explorer) — *Interactive Flutter & Dart App*
 
 <div align="center">
-  <a href="https://github.com/morasantosh2007-rgb/IndiaExplorer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=morasantosh2007-rgb&repo=IndiaExplorer&theme=tokyonight&border_color=00d2ff&title_color=00d2ff&icon_color=00d2ff&bg_color=0d1117" alt="IndiaExplorer Repo Card" />
+  <a href="https://github.com/morasantosh2007-rgb/India_Explorer" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=📱%20India_Explorer&fontSize=26&fontColor=00d2ff&desc=Interactive%20Cultural%20%26%20Travel%20Explorer%20Application&descSize=14&descAlignY=66&descAlign=50&stroke=00d2ff&strokeWidth=2&height=100" width="100%" alt="India_Explorer" />
   </a>
+  <br/>
+  <a href="https://github.com/morasantosh2007-rgb/India_Explorer">
+    <img src="https://img.shields.io/badge/Repository-India__Explorer-00d2ff?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+  </a>
+  <img src="https://img.shields.io/github/repo-size/morasantosh2007-rgb/India_Explorer?style=for-the-badge&color=00d2ff" alt="Repo Size" />
+  <img src="https://img.shields.io/badge/Platform-Flutter%20%7C%20Dart-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </div>
+<br/>
 
 | Layer | Technology |
 | :--- | :--- |
@@ -80,7 +94,22 @@ const santosh: Developer = {
 | **Architecture** | Component-Driven UI & State Management |
 | **Developer Tools** | VS Code, Git, Android Studio |
 
-🔗 **Links:** [📁 Source Code](https://github.com/morasantosh2007-rgb/IndiaExplorer) • [📱 App Release](https://github.com/morasantosh2007-rgb/IndiaExplorer)
+🔗 **Links:** [📁 Source Code](https://github.com/morasantosh2007-rgb/India_Explorer) • [📱 Explore Repository](https://github.com/morasantosh2007-rgb/India_Explorer)
+
+---
+
+### 📂 More Projects & Repositories
+
+Explore additional applications, prototypes, and algorithmic tools:
+
+| Project | Domain | Primary Stack | Highlights | Repository |
+| :--- | :--- | :--- | :--- | :---: |
+| **`video_dubbing`** | AI / Audio-Visual | Python, Speech AI | Automated video dubbing pipeline and audio processing | [Explore ↗](https://github.com/morasantosh2007-rgb/video_dubbing) |
+| **`CivicConnect`** | Full Stack Web | JavaScript, Web APIs | Community engagement & civic issue resolution platform | [Explore ↗](https://github.com/morasantosh2007-rgb/CivicConnect) |
+| **`SMRITI_SHAYAK_NER_proto`** | AI / NLP | TypeScript, NER | Named Entity Recognition prototype for memory assistance | [Explore ↗](https://github.com/morasantosh2007-rgb/SMRITI_SHAYAK_NER_proto) |
+| **`Ciphermind`** | Security / Algorithms | Python (MIT) | Cryptographic algorithm toolkit and data encryption utility | [Explore ↗](https://github.com/morasantosh2007-rgb/Ciphermind) |
+| **`CGPA_Calculator`** | Academic Utility | Python | Accurate semester GPA and cumulative CGPA estimation tool | [Explore ↗](https://github.com/morasantosh2007-rgb/CGPA_Calculator) |
+| **`proto`** | R&D Sandbox | Python | Active experimentation lab and rapid algorithmic prototypes | [Explore ↗](https://github.com/morasantosh2007-rgb/proto) |
 
 ---
 
@@ -91,14 +120,14 @@ const santosh: Developer = {
 #### 💻 Programming Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts,dart" alt="Programming Languages" />
   </a>
 </p>
 
 #### 🎨 Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react" alt="Frontend Tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,flutter" alt="Frontend Tools" />
   </a>
 </p>
 
@@ -130,9 +159,9 @@ const santosh: Developer = {
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <!-- Stats & Top Languages Cards -->
-  <img src="https://github-readme-stats.vercel.app/api?username=morasantosh2007-rgb&show_icons=true&theme=tokyonight&border_color=00d2ff&title_color=00d2ff&icon_color=00d2ff&text_color=e2e8f0&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=morasantosh2007-rgb&layout=compact&theme=tokyonight&border_color=00d2ff&title_color=00d2ff&icon_color=00d2ff&text_color=e2e8f0&bg_color=0d1117" alt="Top Languages" />
+  <!-- Profile Summary Cards -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=morasantosh2007-rgb&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=morasantosh2007-rgb&theme=tokyonight" alt="Top Languages" />
   <br/><br/>
 
   <!-- Streak Stats Card -->
