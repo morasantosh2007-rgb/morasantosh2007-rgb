@@ -77,7 +77,7 @@ const santosh: Developer = {
 
 <div align="center">
   <a href="https://github.com/morasantosh2007-rgb/India_Explorer" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=📱%20India_Explorer&fontSize=26&fontColor=00d2ff&desc=Interactive%20Cultural%20%26%20Travel%20Explorer%20Application&descSize=14&descAlignY=66&descAlign=50&stroke=00d2ff&strokeWidth=2&height=100" width="100%" alt="India_Explorer" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=📱%20India_Explorer&fontSize=26&fontColor=00d2ff&desc=Interactive%20Cultural%20and%20Travel%20Explorer%20Application&descSize=14&descAlignY=66&descAlign=50&stroke=00d2ff&strokeWidth=2&height=100" width="100%" alt="India_Explorer" />
   </a>
   <br/>
   <a href="https://github.com/morasantosh2007-rgb/India_Explorer">
