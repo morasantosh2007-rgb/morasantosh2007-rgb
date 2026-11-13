@@ -1,10 +1,10 @@
 <div align="center">
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=230&section=header&text=Mora%20Santosh&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Web%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20Student%20%7C%20Python%20Specialist&descSize=18&descAlignY=70" width="100%" alt="Mora Santosh Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,24&height=230&section=header&text=Mora%20Santosh&fontSize=48&fontColor=ffffff&animation=twinkling&desc=Web%20Developer%20%7C%20AI%20Engineer%20%7C%20CS%20Student%20%7C%20Python%20Specialist&descSize=18&descAlignY=72" width="100%" alt="Mora Santosh Banner" />
 
   <!-- Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Engineer;Python+%26+Django+Specialist;Data+Structures+%26+Algorithms;Building+SeasonShip+%26+India_Explorer;Open+to+Opportunities+%26+Collaborations" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Web+Developer;AI+%26+Machine+Learning+Engineer;Python+%26+Django+Specialist;Data+Structures+%26+Algorithms;Building+Tender+System+%26+India_Explorer;Open+to+Opportunities+%26+Collaborations" alt="Typing SVG" />
   </a>
   <br/>
 
@@ -29,14 +29,14 @@ const santosh: Developer = {
   status: "Computer Science Student & Lifelong Learner",
   stack: {
     languages: ["Python", "JavaScript", "TypeScript", "C", "C++", "Java", "Dart"],
-    frontend: ["React", "HTML5", "CSS3", "Flutter"],
-    backend: ["Django", "Node.js", "PostgreSQL", "MySQL"],
+    frontend: ["React", "HTML5", "CSS3", "Tailwind CSS", "Flutter"],
+    backend: ["Django", "Node.js", "PostgreSQL", "MySQL", "REST APIs"],
     cloudAndDevOps: ["Docker", "Git", "GitHub", "VS Code"],
-    domains: ["Artificial Intelligence", "Machine Learning", "NLP / NER", "Data Structures & Algorithms"]
+    domains: ["Artificial Intelligence", "Machine Learning", "Data Structures & Algorithms"]
   },
   featuredProjects: [
-    "SeasonShip - Online Internship Portal",
-    "India_Explorer - Cultural & Travel Explorer App"
+    "Online Tender Management System - Full Stack E-Procurement Platform",
+    "India_Explorer - Cultural & Travel Explorer Mobile App"
   ],
   certifications: ["Data Structures & Algorithms", "Full Stack Development & AI"],
   openTo: ["Internships", "Junior Web/AI Roles", "Open Source Collaborations", "Hackathons"]
@@ -47,29 +47,30 @@ const santosh: Developer = {
 
 ### 🚀 Featured Projects
 
-#### 1. 🌐 [SeasonShip](https://github.com/morasantosh2007-rgb/seasonship) — *Online Internship Portal*
+#### 1. 🏛️ [Online Tender Management System](https://github.com/Suryatej73/online_tender_management) — *Full Stack E-Procurement & Bidding Platform*
 
 <div align="center">
-  <a href="https://github.com/morasantosh2007-rgb/seasonship" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=🌐%20SeasonShip&fontSize=26&fontColor=00d2ff&desc=Full%20Stack%20Online%20Internship%20Portal&descSize=14&descAlignY=66&descAlign=50&stroke=00d2ff&strokeWidth=2&height=100" width="100%" alt="SeasonShip" />
+  <a href="https://github.com/Suryatej73/online_tender_management" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=🏛️%20Online%20Tender%20Management%20System&fontSize=24&fontColor=00d2ff&desc=Full%20Stack%20E-Procurement%20and%20Automated%20Bidding%20Platform&descSize=13&descAlignY=76&descAlign=50&stroke=00d2ff&strokeWidth=2&height=120" width="100%" alt="Online Tender Management System" />
   </a>
   <br/>
-  <a href="https://github.com/morasantosh2007-rgb/seasonship">
-    <img src="https://img.shields.io/badge/Repository-seasonship-00d2ff?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
+  <a href="https://github.com/Suryatej73/online_tender_management">
+    <img src="https://img.shields.io/badge/Repository-online__tender__management-00d2ff?style=for-the-badge&logo=github&logoColor=white" alt="Repo" />
   </a>
-  <img src="https://img.shields.io/github/repo-size/morasantosh2007-rgb/seasonship?style=for-the-badge&color=00d2ff" alt="Repo Size" />
-  <img src="https://img.shields.io/github/languages/top/morasantosh2007-rgb/seasonship?style=for-the-badge&color=00d2ff" alt="Top Language" />
+  <img src="https://img.shields.io/github/repo-size/Suryatej73/online_tender_management?style=for-the-badge&color=00d2ff" alt="Repo Size" />
+  <img src="https://img.shields.io/badge/Frontend-React%20%7C%20Tailwind-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/Backend-Django%20REST-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </div>
 <br/>
 
 | Layer | Technology |
 | :--- | :--- |
-| **Frontend** | React, HTML5, Modern CSS |
-| **Backend** | Django / Node.js & RESTful APIs |
-| **Database** | PostgreSQL / MySQL |
-| **Version Control & DevOps** | Git, GitHub, Docker |
+| **Frontend** | React, Vite, Tailwind CSS, Component-Driven UI |
+| **Backend** | Django REST Framework, Python, RESTful Architecture |
+| **Database & Auth** | PostgreSQL, Token/Session Authentication |
+| **Testing & DevOps** | Docker, Selenium, PyTest, Git |
 
-🔗 **Links:** [📁 Source Code](https://github.com/morasantosh2007-rgb/seasonship) • [🌐 Explore Repository](https://github.com/morasantosh2007-rgb/seasonship)
+🔗 **Links:** [📁 Source Code](https://github.com/Suryatej73/online_tender_management) • [🌐 Live Demo](https://online-tender-management.vercel.app)
 
 ---
 
@@ -77,7 +78,7 @@ const santosh: Developer = {
 
 <div align="center">
   <a href="https://github.com/morasantosh2007-rgb/India_Explorer" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=📱%20India_Explorer&fontSize=26&fontColor=00d2ff&desc=Interactive%20Cultural%20and%20Travel%20Explorer%20Application&descSize=14&descAlignY=66&descAlign=50&stroke=00d2ff&strokeWidth=2&height=100" width="100%" alt="India_Explorer" />
+    <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&text=📱%20India_Explorer&fontSize=24&fontColor=00d2ff&desc=Interactive%20Cultural%20and%20Travel%20Explorer%20Application&descSize=13&descAlignY=76&descAlign=50&stroke=00d2ff&strokeWidth=2&height=120" width="100%" alt="India_Explorer" />
   </a>
   <br/>
   <a href="https://github.com/morasantosh2007-rgb/India_Explorer">
@@ -100,16 +101,14 @@ const santosh: Developer = {
 
 ### 📂 More Projects & Repositories
 
-Explore additional applications, prototypes, and algorithmic tools:
-
-| Project | Domain | Primary Stack | Highlights | Repository |
-| :--- | :--- | :--- | :--- | :---: |
-| **`video_dubbing`** | AI / Audio-Visual | Python, Speech AI | Automated video dubbing pipeline and audio processing | [Explore ↗](https://github.com/morasantosh2007-rgb/video_dubbing) |
-| **`CivicConnect`** | Full Stack Web | JavaScript, Web APIs | Community engagement & civic issue resolution platform | [Explore ↗](https://github.com/morasantosh2007-rgb/CivicConnect) |
-| **`SMRITI_SHAYAK_NER_proto`** | AI / NLP | TypeScript, NER | Named Entity Recognition prototype for memory assistance | [Explore ↗](https://github.com/morasantosh2007-rgb/SMRITI_SHAYAK_NER_proto) |
-| **`Ciphermind`** | Security / Algorithms | Python (MIT) | Cryptographic algorithm toolkit and data encryption utility | [Explore ↗](https://github.com/morasantosh2007-rgb/Ciphermind) |
-| **`CGPA_Calculator`** | Academic Utility | Python | Accurate semester GPA and cumulative CGPA estimation tool | [Explore ↗](https://github.com/morasantosh2007-rgb/CGPA_Calculator) |
-| **`proto`** | R&D Sandbox | Python | Active experimentation lab and rapid algorithmic prototypes | [Explore ↗](https://github.com/morasantosh2007-rgb/proto) |
+<div align="center">
+  <p>Looking for more? Explore all my open-source projects, algorithm repositories, and AI prototypes directly on GitHub:</p>
+  <br/>
+  <a href="https://github.com/morasantosh2007-rgb?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/📂_Explore_All_Repositories-morasantosh2007--rgb-00d2ff?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories" />
+  </a>
+  <br/><br/>
+</div>
 
 ---
 
@@ -127,7 +126,7 @@ Explore additional applications, prototypes, and algorithmic tools:
 #### 🎨 Frontend Development
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,react,flutter" alt="Frontend Tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,flutter" alt="Frontend Tools" />
   </a>
 </p>
 
